@@ -1,5 +1,5 @@
 # Fuzzy-Search
-Fuzzy Search through C++.
+Fuzzy Search implemented through C++.
 This repository allows searching a string of words through a directory of different text files with the following features:
 	
 1. The words may have different words between them(ie a slope as we call it)
